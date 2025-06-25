@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @horobchenko, an aspiring programmer, a chemist, a biochemist and a final year student of IT (second higher education)
-- 👀 I’m interested in Web developing and  Python, C/C++ for IoT and automation of equipment for personal or industrial needs
-- 🌱 I’m currently learning TFX, microcontrollers programming and other stuff in the field of embedded programming
+- 👋 Hi, I’m @horobchenko, an aspiring programmer, a chemist, a biochemist 
+- 👀 I’m interested in Web developing (PHP,Python, React, Bootstrap), C/C++ for IoT and automation for personal or industrial needs
+- 🌱 I’m currently learning TFX, microcontrollers STM32 programming and other stuff in the field of embedded programming
 - 📫 How to reach me : gorobchenkotatyana16@gmil.com, 380671330274 telegram
 
 
